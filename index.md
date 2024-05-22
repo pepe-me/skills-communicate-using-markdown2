@@ -18,3 +18,8 @@ var zmienna = "Hell of world";
 zmienna = 'kody pythona'
 print(zmienna)
 ```
+
+## TODO list
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
